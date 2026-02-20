@@ -200,7 +200,4 @@ new_fact_vs_opinion (2).ipynb
 
 ---
 
-## 👩‍💻 Author
 
-Shreeja Princy  
-B.Tech – Artificial Intelligence & Machine Learning
